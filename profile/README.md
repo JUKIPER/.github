@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://jukiper.com"><img src="https://jukiper.com/og/default.png" alt="JUKIPER — Fikirden ürüne / From idea to product" width="640"></a>
+  <a href="https://jukiper.com"><img src="https://jukiper.com/og/default.png" alt="JUKIPER — İşler konuşsun / Let the work speak" width="640"></a>
 </p>
 
 # JUKIPER
 
-**Fikirden ürüne. · From idea to product.**
+**İşler konuşsun. · Let the work speak.**
 
-JUKIPER bağımsız bir yazılım stüdyosu: gerçek problemler için ürünler inşa eder, kaynağını açar, öğrendiklerini yazar.
+JUKIPER bağımsız bir yazılım stüdyosu: kendi ürünlerini inşa eder, deneyimini yazar, kaynağını açar.
 
-An independent software studio: it builds products for real problems, opens its source, and writes down what it learns.
+An independent software studio: it builds its own products, writes down its experience, and opens its source.
 
 **AI · Automation & Orchestration · DevOps · Open Source**
 
