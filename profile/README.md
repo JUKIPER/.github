@@ -6,10 +6,12 @@
 
 **İşler konuşsun. · Let the work speak.**
 
-JUKIPER bağımsız bir yazılım stüdyosu: kendi ürünlerini inşa eder, deneyimini yazar, kaynağını açar.
+JUKIPER bir yazılım stüdyosu. Kendi ürünlerini inşa eder, nasıl inşa ettiğini yazar.
+İki ayak: ürünler ve yazılar.
 
-An independent software studio: it builds its own products, writes down its experience, and opens its source.
+JUKIPER is a software studio. It builds its own products, and writes down how.
+Two pillars: the products, and the writing.
 
-**AI · Automation & Orchestration · DevOps · Open Source**
+**AI · Automation & Orchestration · DevOps · Product building**
 
-🌐 [jukiper.com](https://jukiper.com) · 📝 [Blog](https://jukiper.com/blog/) · 🎓 [Sıfırdan Ürün serisi](https://jukiper.com/blog/seri/sifirdan-urun/) · 🦊 [GitLab](https://gitlab.com/jukiper) · ✉️ info@jukiper.com
+🌐 [jukiper.com](https://jukiper.com) · 📦 [Ürünler / Products](https://jukiper.com/urunler/) · 📝 [Blog](https://jukiper.com/blog/) · 𝕏 [@jukiperhq](https://x.com/jukiperhq) · ✉️ info@jukiper.com
