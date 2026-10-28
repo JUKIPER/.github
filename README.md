@@ -1,2 +1,2 @@
 # .github
-JUKIPER organizasyon profili — org README ve topluluk sağlık dosyaları
+JUKIPER organization profile — org README and community health files.
